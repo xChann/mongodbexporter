@@ -1,4 +1,4 @@
-module github.com/xxyt.95/mongodbexporter
+module github.com/xChann/mongodbexporter
 
 go 1.23.2
 
